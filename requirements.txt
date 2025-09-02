@@ -1,7 +1,4 @@
 streamlit
-pandass
-cat >> requirements.txt << EOF
-streamlit
 pandas
 numpy
 scipy

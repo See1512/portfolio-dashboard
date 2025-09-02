@@ -1,0 +1,11 @@
+streamlit
+pandass
+cat >> requirements.txt << EOF
+streamlit
+pandas
+numpy
+scipy
+yfinance
+plotly
+pydantic
+statsmodel
